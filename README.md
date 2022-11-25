@@ -52,11 +52,17 @@
 ># 3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 **CAPITULO 5 EJERCICIOS IMPARES**
+5–1 RESISTORES EN SERIE 
+
+1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
+
 
 **CAPITULO 6 EJERCICIOS IMPARES** 
 
 
 ># 4. VIDEO
+
+https://youtu.be/EqO7WjKcCsg 
 
 ># 5. CONCLUSIONES
 
