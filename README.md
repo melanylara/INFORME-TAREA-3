@@ -332,4 +332,11 @@ https://youtu.be/EqO7WjKcCsg
 
 ># 5. CONCLUSIONES
 
+* Un circuito electrico en serie se caracteriza por mantener su corriente constante, tambien por la variación del voltaje y las resistencia siempre seran las mismas. 
+
+* En cambio un circuito en paralelo se caracteriza por mantener su voltaje constante, tambien por la variacion de corriente.
+
 ># 6. BIBLIOGRAFÍA
+
+- FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN
+- Picuino. (2019). Serie, Paralelo y Cortocircuito. Recuperado de: https://www.picuino.com/es/electric-serie-paralelo.html 
