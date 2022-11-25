@@ -34,9 +34,20 @@
 ![image](https://user-images.githubusercontent.com/105020538/203879691-aad2176c-3d8c-46ea-82b1-8cd55ac9c76f.png)
 
 
-
-
 **CAPITULO 6**
+
+![image](https://user-images.githubusercontent.com/105020538/203879832-93a396a4-e18f-495d-8087-f504d3a74317.png)
+
+![image](https://user-images.githubusercontent.com/105020538/203879872-7711f370-5ed8-4ada-a0cd-9801e4faeb6a.png)
+
+![image](https://user-images.githubusercontent.com/105020538/203879894-0111e2b1-bed0-4481-9430-40416096df7a.png)
+
+![image](https://user-images.githubusercontent.com/105020538/203879908-3426d216-be1d-4335-8b39-4070d4f100d9.png)
+
+![image](https://user-images.githubusercontent.com/105020538/203879939-1ea4593e-b4c5-4a84-b99c-4e78df260f1f.png)
+
+![image](https://user-images.githubusercontent.com/105020538/203879953-cbff8285-db10-4110-b4bd-41e61b8fb557.png)
+
 
 ># 3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
